@@ -1,4 +1,4 @@
-# Transfer-Learning-DenseNet201
+# Transfer-Learning-DenseNet201 (99% accuracy)
 Dog and Cat Deep leaning using DenseNet201, many more models in VGG16,19,Inception V3,Resnet50, Resnet101V2,DenseNet201
 Here is location of file in google drive download and enjoy:
 
